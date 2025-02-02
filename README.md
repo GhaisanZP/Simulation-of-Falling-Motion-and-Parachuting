@@ -26,9 +26,14 @@ The sooner the parachute is deployed, the longer the descent time.
 The later the parachute is deployed, the faster the skydiver reaches the ground.
 
 Contributors
+
 Fadhlannafis Khawarizmi K.
+
 Gema Nadiku P.
+
 Muhammad Ariq Fakhri
+
 Ghaisan Zaki Pratama
+
 M. Arif Wibisono
 
